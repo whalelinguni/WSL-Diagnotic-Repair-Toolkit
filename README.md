@@ -16,7 +16,7 @@ If you are having WSL issues this PowerShell script performs automatic diagnosti
 1. Download or clone the script file (`WSL-Diag-Toolkit.ps1`) to your local system.
 2. Open PowerShell with Administrator privileges.
 3. Navigate to the directory where the script is located.
-4. Run the script by typing `.\wsldiag.ps1` and pressing Enter.
+4. Run the script by typing `.\WSL-Diag-Toolkit.ps1` and pressing Enter.
 5. Follow the on-screen instructions.
 
 ## Requirements
