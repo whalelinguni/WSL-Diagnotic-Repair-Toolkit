@@ -25,6 +25,10 @@ If you are having WSL issues this PowerShell script performs automatic diagnosti
 - PowerShell 5.1 or later.
 - Administrator privileges to execute the script.
 
+  <p><img src="https://github.com/whalelinguni/WSL-Diagnotic-Repair-Toolkit/blob/main/WSL-Diag.png?raw=true" </img></p>
+
+
+
 ## Disclaimer
 
 This script is provided as-is without any warranties. Use it at your own risk. The author shall not be liable for any damages or issues arising from the use of this script.
